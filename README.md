@@ -30,9 +30,8 @@ Fundamental concepts and techniques for data analysis with Python
 **Basic concepts in data analysis**:
  - Tabular data
  - Non tabular data
- - Relational database
+ - Relational databases
  - Time series data
- - Matrices, vectors, and tensors
  - Anatomy of a table
  - Types of variables
  - Missing data
