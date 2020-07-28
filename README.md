@@ -4,9 +4,7 @@ Fundamental concepts and techniques for data analysis with Python
 
 ## Table of contents
 
-**INTRODUCTION**
-
-**Introduction to data analysis with Python**
+**1. Introduction to data analysis with Python**
 - What is data analysis
 - Data analysis with Python
 - The Python data analysis toolbox
@@ -21,27 +19,28 @@ Fundamental concepts and techniques for data analysis with Python
     - Altair
     - Bokeh
 
-**Prerequisites**
-- Basic Python programming
-- Basic algebra ideas
+- Prerequisites
+    - Basic Python programming
+    - Basic algebra ideas
 
-**PART I: Data wrangling and exploratory data analysis**
-
-**Basic concepts in data analysis**:
+**2. Basic concepts in data analysis**:
  - Tabular data
- - Non tabular data
+ - Nontabular data
  - Relational databases
- - Time series data
  - Anatomy of a table
+ - Time-series data
  - Types of variables
- - Missing data
- - Data cleaning
- - Data exploration
- - Data visualization
- - Hypothesis testing
- - Causal inference
+ - Descriptive statistics
+ - Inferential statistics
+ - Frequency table
+ - Contingency table
+ - Percentiles and quartiles
+ - Data distribution
+ - Measures of central tendency
+ - Measures of dispersion
+ - Summary tables
 
-**Data analysis workflow**
+**3. Data analysis workflow**
 - Questions 
 - Data loading
 - Data cleaning
